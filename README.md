@@ -20,8 +20,8 @@
 
 ## Github Repo
 
-- [https://github.com/hoyeoness9837/Note-Taker](https://github.com/hoyeoness9837/Note-Taker1)
+- [https://github.com/hoyeoness9837/Note-Taker1](https://github.com/hoyeoness9837/Note-Taker1)
 
 ## Deployed URL
 
-- [https://hoyeoness9837.github.io/Note-Taker/](https://hoyeoness9837.github.io/Note-Taker/)
+- [https://blooming-lowlands-81651.herokuapp.com/](https://blooming-lowlands-81651.herokuapp.com/)
